@@ -2,6 +2,6 @@
 - Place: Kerala, India
 - Bio: Front-end Developer
 
-#### Name: [vishnu jayakumar](https://github.com/vishnu-jrr)
+#### Name: [a5win](https://github.com/nomention)
 - Place: Kerala, India
 - Bio: computer science student
